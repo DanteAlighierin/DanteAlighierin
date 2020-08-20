@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning golang and bash
 - 💬 Ask me about linux
 - 📫 How to reach me: t.me/dailymotions
-- ⚡ Fun fact: I'm gay
 
