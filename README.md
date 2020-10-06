@@ -17,8 +17,7 @@ What I own( I will also give examples of my best projects):
 <strong>golang</strong> 
 - [github.com/DanteAlighierin/ftwa](https://github.com/DanteAlighierin/ftwa) - simple web application for file sharing.
 
-<strong>vue </strong>
-- [github.com/DanteAlighierin/VueCRM](https://github.com/DanteAlighierin/VueCRM) - General purpose crm system. Unfortunately, it is not yet operational and has been abandoned indefinitely. I hope that I will finish it soon.
+
 
 ## My site
 I am most proud of my website - [dantealighierin.github.io](https://dantealighierin.github.io).
