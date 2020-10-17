@@ -10,19 +10,19 @@ What I own( I will also give examples of my best projects):
 
 <strong>python</strong> 
 
-- [github.com/DanteAlighierin/SPWM](https://github.com/DanteAlighierin/SPWM) - simple window Manager for Xorg.
-- [github.com/DanteAlighierin/PyQr](https://github.com/DanteAlighierin/PyQr) - utility for generating qr codes. Presented in both cli and graphical mode.
-- [github.com/DanteAlighierin/TkMessenger](https://github.com/DanteAlighierin/TkMessenger) - lightweight p2p messenger with tkinter gui.
+- [SPWM](https://github.com/DanteAlighierin/SPWM) - simple window Manager for Xorg.
+- [PyQr](https://github.com/DanteAlighierin/PyQr) - utility for generating qr codes. Presented in both cli and graphical mode.
+- [TkMessenger](https://github.com/DanteAlighierin/TkMessenger) - lightweight p2p messenger with tkinter gui.
 
 <strong>golang</strong> 
-- [github.com/DanteAlighierin/ftwa](https://github.com/DanteAlighierin/ftwa) - simple web application for file sharing.
+- [ftwa](https://github.com/DanteAlighierin/ftwa) - simple web application for file sharing.
 
 <strong>bash</strong>
-- [github.com/DanteAlighierin/gitBackup](https://github.com/DanteAlighierin/gitBackup) - utility for creating a backup by cloning files to a remote server (service) via git.
+- [gitBackup](https://github.com/DanteAlighierin/gitBackup) - utility for creating a backup by cloning files to a remote server (service) via git.
 
 
 ## My site
-I am most proud of my website - [dantealighierin.github.io](https://dantealighierin.github.io).
+I am most proud of my website - [Dante's blog](https://dantealighierin.github.io).
 Sometimes I post articles there. I think that in the near future there will be even more articles.
 
 ## Linux and configs
