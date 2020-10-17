@@ -17,6 +17,8 @@ What I own( I will also give examples of my best projects):
 <strong>golang</strong> 
 - [github.com/DanteAlighierin/ftwa](https://github.com/DanteAlighierin/ftwa) - simple web application for file sharing.
 
+<strong>bash</strong>
+- [github.com/DanteAlighierin/gitBackup](https://github.com/DanteAlighierin/gitBackup) - utility for creating a backup by cloning files to a remote server (service) via git.
 
 
 ## My site
