@@ -29,4 +29,4 @@ Sometimes I post articles there. I think that in the near future there will be e
 Among other things, I am a Linux user with more than 3 years of experience.
 I use Void Linux as a distribution, and swayWM as a window manager. I use about default configs a little tweaking to fit my needs. If someone needs a convenient working environment, you can use my configs without any problems.
 
-- [github.com/DanteAlighierin/Dante-dots](https://github.com/DanteAlighierin/Dante-dots)
+- [dotfiles](https://github.com/DanteAlighierin/Dante-dots)
