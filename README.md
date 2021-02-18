@@ -25,6 +25,12 @@ What I own( I will also give examples of my best projects):
 I am most proud of my website - [Dante's blog](https://dantealighierin.github.io).
 Sometimes I post articles there. I think that in the near future there will be even more articles.
 
+
+## Mirrors
+
+- [MDK](https://github.com/DanteAlighierin/GNU-MDK) - GNU MIX Development KIT (MDK)
+- [foot](https://github.com/DanteAlighierin/foot) - fast, lightweight and minimalistic Wayland terminal emulator 
+
 ## Linux and configs
 Among other things, I am a Linux user with more than 3 years of experience.
 I use Void Linux as a distribution, and swayWM as a window manager. I use about default configs a little tweaking to fit my needs. If someone needs a convenient working environment, you can use my configs without any problems.
