@@ -22,7 +22,7 @@ What I own( I will also give examples of my best projects):
 
 
 ## My site
-I am most proud of my website - [Dante's blog](https://dantealighierin.github.io).
+I am most proud of my website - [Dante's blog](https://dantealighierin.github.io/post/).
 Sometimes I post articles there. I think that in the near future there will be even more articles.
 
 
