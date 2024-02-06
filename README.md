@@ -4,6 +4,8 @@ For me, programming is more of a hobby for me than a job. Although a couple of t
 
 You can contact me by [telegram](https://t.me/dailymotions).
 
+Also check my [tg channel](https://t.me/dantenotes)
+
 
 ## Skills
 What I own( I will also give examples of my best projects):
@@ -28,11 +30,13 @@ Sometimes I post articles there. I think that in the near future there will be e
 
 ## Mirrors
 
-- [MDK](https://github.com/DanteAlighierin/GNU-MDK) - GNU MIX Development KIT (MDK)
+- [MDK](https://github.com/DanteAlighierin/GNU-MDK) - GNU MIX Development KIT (MDK). Right now unmantained
 - [foot](https://github.com/DanteAlighierin/foot) - fast, lightweight and minimalistic Wayland terminal emulator 
 
 ## Linux and configs
-Among other things, I am a Linux user with more than 3 years of experience.
-I use Void Linux as a distribution, and swayWM as a window manager. I use about default configs a little tweaking to fit my needs. If someone needs a convenient working environment, you can use my configs without any problems.
+Among other things, I am a Linux user with more than 6 years of experience.
+I use Void Linux(laptop) and Ubuntu(desktop) as a distribution, and swayWM as a window manager. I use about default configs a little tweaking to fit my needs. If someone needs a convenient working environment, you can use my configs without any problems.
 
 - [dotfiles](https://github.com/DanteAlighierin/Dante-dots)
+
+- Unfort, I'm temporary switched to Windows 10 (sic!)
