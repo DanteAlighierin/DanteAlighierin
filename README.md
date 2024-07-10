@@ -1,11 +1,7 @@
 ## Brief info
 Hello to everyone who visited this page.
-For me, programming is more of a hobby for me than a job. Although a couple of times I had to write code for money. So if you have a job, then contact me.
 
 You can contact me by [telegram](https://t.me/dailymotions).
-
-Also check my [tg channel](https://t.me/dantenotes)
-
 
 ## Skills
 What I own( I will also give examples of my best projects):
@@ -39,4 +35,4 @@ I use Void Linux(laptop) and Ubuntu(desktop) as a distribution, and swayWM as a 
 
 - [dotfiles](https://github.com/DanteAlighierin/Dante-dots)
 
-- Unfort, I'm temporary switched to Windows 10 (sic!)
+- Unfort, I'm temporary switched to Windows 10
